@@ -1,7 +1,7 @@
 
 # A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER
 
-
+<!-- omit in toc -->
 
 ## Overview
 This is the repository for our work **MSDP**, which is recieved by **CIKM 2023 Oral Presentation**.
