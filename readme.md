@@ -2,8 +2,7 @@
 # A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER
 
 <!-- omit in toc -->
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-multi-task-semantic-decomposition-framework/few-shot-ner-on-few-nerd-inter)](https://paperswithcode.com/sota/few-shot-ner-on-few-nerd-inter?p=a-multi-task-semantic-decomposition-framework)
-	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-multi-task-semantic-decomposition-framework/few-shot-ner-on-few-nerd-inter)](https://paperswithcode.com/sota/few-shot-ner-on-few-nerd-inter?p=a-multi-task-semantic-decomposition-framework)	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-multi-task-semantic-decomposition-framework/few-shot-ner-on-few-nerd-intra)](https://paperswithcode.com/sota/few-shot-ner-on-few-nerd-intra?p=a-multi-task-semantic-decomposition-framework)
 
 ## Overview
