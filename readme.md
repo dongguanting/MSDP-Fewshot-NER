@@ -46,5 +46,3 @@ we propose a Multi-Task Semantic Decomposition Framework via Joint Task-specific
 ## Main Result:
 <img width="902" alt="image" src="https://github.com/dongguanting/MSDP-Fewshot-NER/assets/60767110/2bcce959-0172-4e2b-8b74-e1eb67623773">
 
-
-Our Code and Dataset will be released soon!
