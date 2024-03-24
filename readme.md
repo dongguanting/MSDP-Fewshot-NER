@@ -7,7 +7,8 @@
 
 ## News
 **[2024.3]** Our basic framework for downstream basic training and testing is based on [SpanProto: A Two-stage Span-based Prototypical Network for
-Few-shot Named Entity Recognition](https://arxiv.org/pdf/2308.14533.pdf),Many thanks to this work for providing a strong baseline.
+Few-shot Named Entity Recognition](https://arxiv.org/pdf/2308.14533.pdf), Many thanks to this work for providing a strong baseline.
+
 The main code for task specific pre-training is open sourced. Unfortunately, our code for the prototype decomposition part has been cleaned up by others. You can reproduce it based on the detailed description of our paper or contact with me for guidence. We are willing to offer help for reproduction.
 
 ## Overview
