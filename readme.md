@@ -22,13 +22,12 @@ Task-specific Pre-training for Few-Shot NER](https://arxiv.org/pdf/2308.14533.pd
 If you find this repo helpful, please cite the following paper:
 
 ```bibtex
-@misc{dong2023multitask,
-      title={A Multi-Task Semantic Decomposition Framework with Task-specific Pre-training for Few-Shot NER}, 
-      author={Guanting Dong and Zechen Wang and Jinxu Zhao and Gang Zhao and Daichi Guo and Dayuan Fu and Tingfeng Hui and Chen Zeng and Keqing He and Xuefeng Li and Liwen Wang and Xinyue Cui and Weiran Xu},
-      year={2023},
-      eprint={2308.14533},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{dong2023multi,
+  title={A multi-task semantic decomposition framework with task-specific pre-training for few-shot ner},
+  author={Dong, Guanting and Wang, Zechen and Zhao, Jinxu and Zhao, Gang and Guo, Daichi and Fu, Dayuan and Hui, Tingfeng and Zeng, Chen and He, Keqing and Li, Xuefeng and others},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={430--440},
+  year={2023}
 }
 ```
 
